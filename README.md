@@ -29,6 +29,7 @@ This is a personal project by **SK Akram**, and external contributions are not a
 
 - **Frontend**: HTML, CSS, JavaScript  
 - **API**: Unsplash API  
+  - API Documentation: [Unsplash API](https://unsplash.com/developers)
 
 ---
 
@@ -41,9 +42,10 @@ This is a personal project by **SK Akram**, and external contributions are not a
 
 ## 📂 Project Details  
 
+- **API**: Data is fetched from the Unsplash API.
+  - API Documentation: [Unsplash API](https://unsplash.com/developers)
 - **Data Handling**: Images are fetched dynamically from the Unsplash API based on user queries.  
-- **Error Handling**: The application gracefully handles API errors and provides user feedback.  
-- **Localhost**: Use a localhost to start the application.
+- **Error Handling**: The application gracefully handles API errors and provides user feedback.
 
 ---
 
