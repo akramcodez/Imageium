@@ -6,7 +6,7 @@ A dynamic web application that allows users to search for and display images fro
 
 A platform for discovering stunning images! This web application enables users to search for images, view results, and click on them to access the original source.
 
-Showcasing a clean interface and user-friendly navigation.
+Showcasing a clean interface and user-friendly navigation..
 
 ---
 
